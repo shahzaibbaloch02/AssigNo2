@@ -1,0 +1,25 @@
+.toolbar {
+    // --background: transparent;
+    // --background: linear-gradient(90deg, rgba(10, 10, 10, 0.733) 0%, rgba(0, 0, 0, 0.733) 25%, rgba(0, 0, 0, 0.733) 75%, rgba(0, 0, 0, 0.733) 100%);
+    // --color: white;
+    --background: rgb(0, 0, 0);
+    --color: white;
+}
+
+ion-item-2 {
+    border: 2px solid rgb(75, 75, 75);
+}
+
+#abc {
+    border: 2px solid rgb(30, 30, 31);
+}
+
+ion-button {
+    --background: rgb(221, 33, 0);
+}
+
+ion-tab-button {
+    --background: linear-gradient(90deg, rgb(151, 32, 32) 0%, rgb(216, 71, 71) 25%, rgb(10, 10, 10) 75%, rgb(10, 10, 10) 100%);
+    color: rgb(225, 225, 225);
+    font-weight: bolder;
+}
